@@ -4,8 +4,6 @@ https://www.overleaf.com/read/rcybhbsfvksr#7334b1
 
 
 Link to unlisted YouTube video:
-https://youtu.be/f7jHCZWhFQc?si=28escnE9tIQ2welC
-
 
 Project title:
 A Pattern Recognition Approach for Bangla Question Answering System 
